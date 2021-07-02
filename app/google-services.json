@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795957418924",
+    "project_id": "profit-maximazer-copy",
+    "storage_bucket": "profit-maximazer-copy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795957418924:android:3f6af006c26ce7c8403809",
+        "android_client_info": {
+          "package_name": "com.codes.profmaxcopp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795957418924-jgpt05jmmfih6k0fand6me8lv9o35ef0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgQ7pAVlCqf7lhMtBshFtiLGOIYcKTzAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795957418924-jgpt05jmmfih6k0fand6me8lv9o35ef0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
